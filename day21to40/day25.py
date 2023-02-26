@@ -1,0 +1,6 @@
+country = ("Spain","Italy","India","Germany")
+temp =list(country)
+print(type(temp))
+t = tuple(temp)
+print(t)
+print(type(t))
